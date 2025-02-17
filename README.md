@@ -1,1 +1,3 @@
-# IETI_M-d5_UnitTesting
+# Weather REST API Spring Boot & Java
+
+Weather Report API implemented with Spring Boot and Java.
